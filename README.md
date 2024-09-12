@@ -6,6 +6,7 @@
 
 - 📫 How to reach me **ketansingh001412@gmail.com**
 
+-Did you know that you can also connect to me **www.linkedin.com/in/ketansingh7510**? As someone who's passionate , I'm excited to connect with others who share my interest on LinkedIn.
 - ⚡ Fun fact **I am a geek**
 
 <h3 align="left">Connect with me:</h3>
