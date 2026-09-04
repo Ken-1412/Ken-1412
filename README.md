@@ -25,3 +25,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ken-1412&show_icons=true&locale=en&layout=compact" alt="ken-1412" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ken-1412&show_icons=true&locale=en" alt="ken-1412" /></p>
+<img width="1216" height="496" alt="image" src="https://github.com/user-attachments/assets/5f64af73-5486-468b-8f29-34f11a50931d" />
+
+<img width="1377" height="509" alt="image" src="https://github.com/user-attachments/assets/d08e6277-cf5c-4586-b737-a1d983ed90af" />
+
+
